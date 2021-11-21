@@ -63,6 +63,7 @@ Send2Trash==1.8.0
 setuptools-scm==6.3.2
 six==1.16.0
 sklearn==0.0
+sklearn-pandas==2.2.0
 terminado==0.12.1
 testpath==0.5.0
 threadpoolctl==3.0.0
