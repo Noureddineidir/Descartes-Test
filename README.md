@@ -13,3 +13,6 @@ The [Descartes_test](https://github.com/Noureddineidir/Descartes-Test/blob/fec94
 * Data Cleaning and preprocessing: Converting types, Missing values, outliers, encoding categorical features, scaling distributions.
 * Modelling : Model testing, fine-tuning and feature Selection
 * Dealing with imbalanced data : RandomOversampling method.
+
+------------------------------------------------------
+Prediction on test set are provided in [prediction_test_auto.csv](https://github.com/Noureddineidir/Descartes-Test/blob/df9793e0c0a4aa9baa4cfe0602d336420ab1616c/prediction_test_auto.csv).
